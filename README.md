@@ -27,3 +27,4 @@ Currently under active development. New features and improvements are continuous
 - Integrate more AI capabilities
 - Build a simple web interface
 - Deploy as an online service
+This project is part of ongoing AI development practice.
